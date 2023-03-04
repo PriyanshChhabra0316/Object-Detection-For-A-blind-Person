@@ -1,1 +1,3 @@
 # Object-Detection-For-A-blind-Person
+BEST PROJECT MADE BY USING OPENCV.
+I HOPE YOU WILL LIKE IT.
